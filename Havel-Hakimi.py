@@ -9,18 +9,6 @@ Created on Wed Sep 22 13:50:05 2021
 
 print("Havel-Hakimi algorithm")
 
-
-"""
-References:
-
-S. Hakimi, On the realizability of a set of integers as degree sequences of the vertices of a graph, 
-J. SIAM Appl. Math. 10 (1962), 496–506.
-
-E. Triesch, Degree sequences of graphs and dominance order, 
-J. Graph Theory 22 (1996), no. 1, 89–93.
-  
-"""
-
 def Havel(n):
     
     step = len(n)
