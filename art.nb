@@ -1,0 +1,15 @@
+ListPlot[
+ Table[{Prime[t] Cos[Prime[t]], 
+   Sin[Prime[t]] + Prime[t] Sin[Prime[t]]}, {t, 10000}]]
+   
+   
+ListPlot[Table[{Prime[t] Cos[Prime[t]], 
+   Prime[t] Sin[t] + Prime[t] Sin[Prime[t]]}, {t, 100000}]]
+   
+ListPlot[Table[Prime[t]*{Cos[Prime[t]],Sin[Prime[t]]}, {t, 100000}]]
+
+ListPlot[
+ Table[{5 Cos[t], 7 Sin[Gamma[2030303 t]] + 11 Sin[10000000 t]}, {t, 
+   0, 2 Pi, 0.001}],  Frame -> False, Axes -> False]
+   
+   
