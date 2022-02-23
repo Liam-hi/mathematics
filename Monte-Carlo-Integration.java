@@ -29,11 +29,5 @@ public class Main {
             sum = 0;
         }
         System.out.println(((double)count / 100000) * (Math.pow((radius + radius ), dim)));
-
-
-
-
-
-
     }
 }
