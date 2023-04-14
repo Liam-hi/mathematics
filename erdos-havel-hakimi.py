@@ -3,7 +3,7 @@
 """
 Created on Fri Sep 24 22:59:17 2021
 
-@author: nimarahimian
+@author: liamrahimian
 """
 
 print("Modification of Havel-Hakimi algorithm to obtain connected graph")
