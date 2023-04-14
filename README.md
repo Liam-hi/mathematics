@@ -1,1 +1,1 @@
-## A selection of algorithms written in Python and Java 
+A selection of algorithms written in Python and Java 
