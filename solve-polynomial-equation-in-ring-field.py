@@ -40,5 +40,5 @@ def poly(a, b):
     return l
         
     
-# print(poly("x^5 + 2x^4 + 2x^2 + 1", 3))
+print(poly("x^5 + 2x^4 + 2x^2 + 1", 3))
 # print(poly("x^2 + 4x + 3", 5))
