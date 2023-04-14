@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 23 19:58:53 2021
-
-@author: nimarahimian
-"""
 
 st = '(12)'
 
