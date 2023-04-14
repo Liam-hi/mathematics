@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 10 11:16:16 2021
-
-@author: nimarahimian
-"""
-
 #Skriv en funktion f för att skriva ut alla nycklar och längder 
 #på nycklarnas associerade värden i en uppslagstabell (eng: dictionary), 
 #en nyckel och dess värde per rad. Du ska anta att både nycklar och dess 
